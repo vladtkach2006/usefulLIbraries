@@ -1,0 +1,4 @@
+Css
+  Animate.css - https://animate.style/
+React
+  React Select - https://react-select.com/home
