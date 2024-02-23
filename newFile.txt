@@ -2,3 +2,5 @@ Css
   Animate.css - https://animate.style/
 React
   React Select - https://react-select.com/home
+  Yup validation - https://www.npmjs.com/package/yup
+  React Hook Form - https://react-hook-form.com/
